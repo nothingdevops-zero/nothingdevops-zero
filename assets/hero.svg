@@ -20,7 +20,7 @@
   <text x="112" y="81" class="h" style="font-size:22px">nothing_SRE</text>
   <rect x="256.4" y="53" width="44" height="22" rx="11.0" fill="#f6d77a" stroke="#111111" stroke-width="2"/><text x="267.4" y="68.0" class="h" style="font-size:11px" fill="#111111">SRE</text>
   <rect x="308.84" y="53" width="60" height="22" rx="11.0" fill="#e8f0ff" stroke="#111111" stroke-width="2"/><text x="319.84" y="68.0" class="h" style="font-size:11px" fill="#111111">DevOps</text>
-  <rect x="376.67999999999995" y="53" width="154" height="22" rx="11.0" fill="#eefbf2" stroke="#111111" stroke-width="2"/><circle cx="391.67999999999995" cy="64.0" r="4" fill="#22c55e" class="pulse"/><text x="401.67999999999995" y="68.0" class="h" style="font-size:11px" fill="#111111">2 online · 2 standby</text>
+  <rect x="376.67999999999995" y="53" width="154" height="22" rx="11.0" fill="#eefbf2" stroke="#111111" stroke-width="2"/><circle cx="391.67999999999995" cy="64.0" r="4" fill="#22c55e" class="pulse"/><text x="401.67999999999995" y="68.0" class="h" style="font-size:11px" fill="#111111">2 online · 3 standby</text>
   <rect x="764.4" y="54" width="59" height="26" rx="13.0" fill="#ffffff" stroke="#111111" stroke-width="2"/><text x="775.4" y="71.3" class="m" style="font-size:12px" fill="#111111">UTC+7</text>
   <rect x="644.56" y="54" width="110" height="26" rx="13.0" fill="#fde8ef" stroke="#111111" stroke-width="2"/><text x="655.56" y="71.3" class="m" style="font-size:12px" fill="#111111">on-call 24/7</text>
   <line x1="52" y1="116" x2="823" y2="116" stroke="#111111" stroke-opacity=".12" stroke-width="1.5"/>

@@ -16,5 +16,5 @@
   <rect width="880" height="138" rx="18" fill="#f3f5fa"/>
   <rect width="880" height="138" rx="18" fill="url(#grid)"/>
 <g transform="translate(28,26)" fill="none" stroke="#4f8df7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="24" height="9" rx="2.5"/><rect x="2" y="16" width="24" height="9" rx="2.5"/><path d="M7 7.5h.01M7 20.5h.01"/></g><text x="66" y="51" class="h" style="font-size:28px">Validator Fleet</text><text x="28" y="78" class="b" style="font-size:14px">Testnets I validate, operated with production discipline.</text>
-  <text x="28" y="118" class="b" style="font-size:13px">Running <tspan class="h" style="font-size:13px">4</tspan> networks • 2 online · click a card to open the project</text>
+  <text x="28" y="118" class="b" style="font-size:13px">Running <tspan class="h" style="font-size:13px">5</tspan> networks • 2 online · click a card to open the project</text>
 </svg>
