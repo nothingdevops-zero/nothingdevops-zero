@@ -12,11 +12,11 @@
 <p align="center"><img src="./assets/rack.svg" alt="Validator Fleet: Asentum (online), GenLayer (standby), Logos (online), FLOP (standby), Quip Network (standby)" width="100%" /></p>
 
 <p align="center">
-  <a href="https://www.asentum.com"><img src="./assets/fleet-asentum.svg" alt="Asentum: online, validator · signing blocks" width="15%" /></a>
-  <a href="https://genlayer.com"><img src="./assets/fleet-genlayer.svg" alt="GenLayer: standby, validator · awaiting graduation" width="15%" /></a>
-  <a href="https://logos.co"><img src="./assets/fleet-logos.svg" alt="Logos: online, full node · pow miner" width="15%" /></a>
-  <a href="https://flop.finance"><img src="./assets/fleet-flop.svg" alt="FLOP: standby, validator · applied" width="15%" /></a>
-  <a href="https://quip.network"><img src="./assets/fleet-quip.svg" alt="Quip Network: standby, useful-work miner · setting up" width="15%" /></a>
+  <a href="https://www.asentum.com"><img src="./assets/fleet-asentum.svg" alt="Asentum: online, validator · signing blocks" width="23%" /></a>
+  <a href="https://genlayer.com"><img src="./assets/fleet-genlayer.svg" alt="GenLayer: standby, validator · awaiting graduation" width="23%" /></a>
+  <a href="https://logos.co"><img src="./assets/fleet-logos.svg" alt="Logos: online, full node · pow miner" width="23%" /></a>
+  <a href="https://flop.finance"><img src="./assets/fleet-flop.svg" alt="FLOP: standby, validator · applied" width="23%" /></a>
+  <a href="https://quip.network"><img src="./assets/fleet-quip.svg" alt="Quip Network: standby, useful-work miner · setting up" width="23%" /></a>
 </p>
 
 <p align="center"><img src="./assets/operating-model.svg" alt="Operating model: observe · health report interval, upgrade · re-alert until acked, self-heal · max restarts" width="100%" /></p>
