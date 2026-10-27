@@ -9,12 +9,13 @@
   <a href="mailto:lucygang98@gmail.com"><img src="https://img.shields.io/badge/email-f6d77a?style=for-the-badge&logo=gmail&logoColor=111111" /></a>
 </p>
 
-<p align="center"><img src="./assets/rack.svg" alt="Validator Fleet: Asentum (online), GenLayer (standby), Logos (online)" width="100%" /></p>
+<p align="center"><img src="./assets/rack.svg" alt="Validator Fleet: Asentum (online), GenLayer (standby), Logos (online), Flop (standby)" width="100%" /></p>
 
 <p align="center">
-  <a href="https://www.asentum.com"><img src="./assets/fleet-asentum.svg" alt="Asentum: online, validator · signing blocks" width="32%" /></a>
-  <a href="https://genlayer.com"><img src="./assets/fleet-genlayer.svg" alt="GenLayer: standby, validator · awaiting graduation" width="32%" /></a>
-  <a href="https://logos.co"><img src="./assets/fleet-logos.svg" alt="Logos: online, full node · pow miner" width="32%" /></a>
+  <a href="https://www.asentum.com"><img src="./assets/fleet-asentum.svg" alt="Asentum: online, validator · signing blocks" width="48%" /></a>
+  <a href="https://genlayer.com"><img src="./assets/fleet-genlayer.svg" alt="GenLayer: standby, validator · awaiting graduation" width="48%" /></a>
+  <a href="https://logos.co"><img src="./assets/fleet-logos.svg" alt="Logos: online, full node · pow miner" width="48%" /></a>
+  <a href="https://flop.finance"><img src="./assets/fleet-flop.svg" alt="Flop: standby, validator · applied" width="48%" /></a>
 </p>
 
 <p align="center"><img src="./assets/operating-model.svg" alt="Operating model: observe · health report interval, upgrade · re-alert until acked, self-heal · max restarts" width="100%" /></p>
